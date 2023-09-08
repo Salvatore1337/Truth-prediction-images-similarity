@@ -4,4 +4,4 @@ An algorithm written in Python for calculating similarity between truth and pred
 - Recall
 - Accuracy
   
-Replace the paths with the the directories of your truth and predicition images 
+Replace the paths with the the directory paths of your truth and predicition images 
